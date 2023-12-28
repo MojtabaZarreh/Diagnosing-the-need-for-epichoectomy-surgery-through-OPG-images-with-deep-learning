@@ -34,6 +34,12 @@ We are trying to diagnose the need for this surgery in OPG modality.
 
 # Dataset
 
+The dataset contains a limited number of whole-mouth OPG images labeled by experienced dentists.
+
+It also contains images of masks for problematic teeth.
+
+The image format is DICOM.
+
 
 
 
