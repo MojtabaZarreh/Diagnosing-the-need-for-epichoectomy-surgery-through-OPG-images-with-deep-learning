@@ -45,6 +45,19 @@ https://www.kaggle.com/datasets/iaaaevent/iaaa-v2
 ![1 2 246 512 1 2 0 4 882960520908 1749715128 20230104093912](https://github.com/MojtabaZarreh/Diagnosing-the-need-for-epichoectomy-surgery-through-OPG-images-with-deep-learning/assets/71370569/1056f447-fa50-4197-b42f-7eb16991b454)
 
 
+# Preprocessing
+
+Crop around and resize images
+![bandicam 2023-12-28 13-33-49-478](https://github.com/MojtabaZarreh/Diagnosing-the-need-for-epichoectomy-surgery-through-OPG-images-with-deep-learning/assets/71370569/874e4e53-8b3d-458d-8453-c8e8bc9e426e)
+
+Apply filters to images
+![image](https://github.com/MojtabaZarreh/Diagnosing-the-need-for-epichoectomy-surgery-through-OPG-images-with-deep-learning/assets/71370569/773531c0-e412-4e5d-8210-edc824eab02e)
+
+
+
+
+
+
 
 # Model
 
