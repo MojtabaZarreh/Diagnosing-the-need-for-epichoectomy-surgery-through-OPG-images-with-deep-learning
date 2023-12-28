@@ -17,5 +17,15 @@ When direct access to the pulp and root of the tooth is needed, an incision is m
 
 This method helps the dentists to clean the pulp and infection through the root of the tooth and to remove the infected tissues of the bone under the gums.
 
+# Apicoectomy
+
+An apicoectomy (also referred to as apicectomy, root end resection or periapical surgery) is a minor dental procedure that is performed to save a tooth that would otherwise need to be removed. An apicoectomy involves removing the end of the root of a tooth (known as the apex) and is performed on both children and adults.
+
+
+![Apicectomy](https://github.com/MojtabaZarreh/Diagnosing-the-need-for-epichoectomy-surgery-through-OPG-images-with-deep-learning/assets/71370569/852b4d89-f958-4590-b5b3-44ebaeecbd31)
+
+
+
+
 
 
