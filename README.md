@@ -40,6 +40,16 @@ It also contains images of masks for problematic teeth.
 
 The image format is DICOM.
 
+https://www.kaggle.com/datasets/iaaaevent/iaaa-v2
 
+![1 2 246 512 1 2 0 4 882960520908 1749715128 20230104093912](https://github.com/MojtabaZarreh/Diagnosing-the-need-for-epichoectomy-surgery-through-OPG-images-with-deep-learning/assets/71370569/1056f447-fa50-4197-b42f-7eb16991b454)
+
+
+
+
+As mentioned above, we have used the U-NET architecture.
+
+
+![10462_2022_10152_Fig3_HTML](https://github.com/MojtabaZarreh/Diagnosing-the-need-for-epichoectomy-surgery-through-OPG-images-with-deep-learning/assets/71370569/8185501e-713c-4d5a-83ce-4d0d68687126)
 
 
