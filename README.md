@@ -56,13 +56,7 @@ Apply filters to images
 
 
 Abnormal images with masks applied
-![image](https://github.com/MojtabaZarreh/Diagnosing-the-need-for-epichoectomy-surgery-through-OPG-images-with-deep-learning/assets/71370569/d5945fca-bb7e-4d72-8528-7884eab24b88)
-
-
-
-
-
-
+![image](https://github.com/MojtabaZarreh/Diagnosing-the-need-for-epichoectomy-surgery-through-OPG-images-with-deep-learning/assets/71370569/7423ff98-cfde-4dd7-b647-7c2340062ec4)
 
 
 # Model
