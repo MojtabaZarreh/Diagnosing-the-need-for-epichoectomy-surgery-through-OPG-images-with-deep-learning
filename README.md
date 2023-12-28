@@ -47,9 +47,23 @@ https://www.kaggle.com/datasets/iaaaevent/iaaa-v2
 
 
 
+
+
+
+
+
+
 As mentioned above, we have used the U-NET architecture.
 
 
 ![10462_2022_10152_Fig3_HTML](https://github.com/MojtabaZarreh/Diagnosing-the-need-for-epichoectomy-surgery-through-OPG-images-with-deep-learning/assets/71370569/8185501e-713c-4d5a-83ce-4d0d68687126)
+
+
+And DenseNet169 has been used for feature extraction.
+
+
+![The-architecture-of-DenseNet-169-used-to-implement-the-proposed-method](https://github.com/MojtabaZarreh/Diagnosing-the-need-for-epichoectomy-surgery-through-OPG-images-with-deep-learning/assets/71370569/8b465802-0f15-4154-884f-ee45c01ae846)
+
+
 
 
