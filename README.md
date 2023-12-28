@@ -4,7 +4,7 @@ In this project, using deep learning techniques, we tried to detect the need for
 We have used U-NET.
 Also for feature extraction from DenseNet169 Used.
 
-#Description
+# Description
 
 When the soft inner pulp of your tooth becomes infected, there is only one way to treat the problem and save the tooth
 There is your natural and that is to remove the pulp from the tooth.
