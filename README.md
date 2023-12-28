@@ -1,6 +1,6 @@
 # Diagnosing the need for epichoectomy surgery through OPG images with deep learning
 
-In this project, using deep learning techniques, we tried to detect the need for Apicoectomy surgery through dental radiology images.
+In this project, using deep learning techniques, we tried to detect the need for Apicoectomy surgery through dental Orthopantomography images.
 We have used U-NET.
 Also for feature extraction from DenseNet169 Used.
 
@@ -29,6 +29,10 @@ We are trying to diagnose the need for this surgery in OPG modality.
 
 
 ![Apicoectomy-and-retrofill](https://github.com/MojtabaZarreh/Diagnosing-the-need-for-epichoectomy-surgery-through-OPG-images-with-deep-learning/assets/71370569/05018d21-59be-4845-b0a9-661c1ec37a43)
+
+
+
+# Dataset
 
 
 
